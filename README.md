@@ -45,7 +45,7 @@
 
 #### 🔧 Tools
 
-[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,git,github,visualstudio,vscode,blender,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,git,github,visualstudio,vscode,blender,unity,notion,windows)](https://skillicons.dev)
 
 
 <!-- ## 📊 Profile Statistics
@@ -98,9 +98,9 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://drive.google.com/file/d/1IenImhmMfTv2_ucbSi5NUyJLeQ7GlhGl/view?usp=sharing"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/juan-fernando-guio-alzate-b02672317/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="http://t.me/JuanFerGuio"><img alt="Telegram" src="https://skillicons.dev/icons?i=telegram" />
 </a>
 </div>
 
@@ -112,6 +112,6 @@
 
 ------
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
+<!-- Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod) -->
 
-Last Edited on: 26/02/2025
+Last Edited on: 12/06/2025

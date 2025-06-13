@@ -93,6 +93,12 @@
   
 </div> -->
 
+### 📊 Languages
+<div align="center">
+<img
+  src="https://flagcdn.com/es.svg" width="30" alt="Bandera de España">
+</div>
+
 ---
 
 ### 🔗 &nbsp;Contact Me

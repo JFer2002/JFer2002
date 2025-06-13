@@ -96,7 +96,12 @@
 ### 📊 Languages
 <div align="center">
 <img
-  src="https://flagcdn.com/es.svg" width="30" alt="Bandera de España">
+  src="https://flagcdn.com/es.svg" width="60" alt="Bandera de España">
+</div>
+
+<div align="center">
+<img
+  src="https://flagcdn.com/us.svg" width="60" alt="Bandera de Estados Unidos">
 </div>
 
 ---

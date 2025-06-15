@@ -106,7 +106,7 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a href="https://drive.google.com/file/d/1IenImhmMfTv2_ucbSi5NUyJLeQ7GlhGl/view?usp=sharing"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://drive.google.com/file/d/1wX39HV_Hxq_1R5FLk-LBdr6uBYTdCKsG/view?usp=sharing"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/juan-fernando-guio-alzate-b02672317/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="http://t.me/JuanFerGuio"><img alt="Telegram" src="https://skillicons.dev/icons?i=discord" />
 </a>
